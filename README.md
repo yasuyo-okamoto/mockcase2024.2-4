@@ -8,16 +8,33 @@
 
 ## アプリケーションURL　　
 
+* 開発環境:http://localhost/  
+* phpMyAdmin:http://localhost:8080/
+
+
 ## 他のリポジトリ　　
 
 ## 機能一覧　　
 
 
 ## 使用技術（実行環境）　　　
-  
+
+
+## 使用技術  
+
+* PHP 8.0  
+* Laravel 10.0  
+* MySQL 8.0
+
+## テーブル設計  
+
+
+## ER図  
+
+## 環境構築　　
 dockerビルド　 
   
-1.   
+1. https://github.com/yasuyo-okamoto/mockcase2024.2-4.git  
 2. docker-compose pu -d --build  
 *MySQLは、OSによって起動しない場合があるのでそれぞれのPCに合わせてdocker-compose.ymlファイルを編集してください  
 
@@ -30,16 +47,4 @@ Laravel環境構築
 5. php artisan migrate  
 6. php artisan db:seed  
 
-## 使用技術  
 
-* PHP 8.0  
-* Laravel 10.0  
-* MySQL 8.0
-
-## ER図  
-
-
-## URL  
-
-* 開発環境:http://localhost/  
-* phpMyAdmin:http://localhost:8080/  
