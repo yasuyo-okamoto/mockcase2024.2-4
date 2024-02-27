@@ -1,6 +1,11 @@
 # Atte(アット）　　
 勤怠管理システム　　　
-![stamp](https://github.com/yasuyo-okamoto/mockcase2024.2-4/assets/147665983/4e21226c-9a7b-41ab-9ab0-87ce4e9f5375)
+![stamp](https://github.com/yasuyo-okamoto/mockcase2024.2-4/assets/147665983/4e21226c-9a7b-41ab-9ab0-87ce4e9f5375)　　
+
+## 作成した目的　　
+人事評価のための勤怠管理アプリ　　
+できること　　
+＊　個人別に勤務時間管理　　
 
 ## 環境構築　　
   
