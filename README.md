@@ -3,14 +3,21 @@
 ![stamp](https://github.com/yasuyo-okamoto/mockcase2024.2-4/assets/147665983/4e21226c-9a7b-41ab-9ab0-87ce4e9f5375)　　
 
 ## 作成した目的　　
-人事評価のための勤怠管理アプリ　　
+人事評価のための勤怠管理アプリ</br>
 個人別に勤務時間管理ができます　　
-　　
-## 環境構築　　
+
+## アプリケーションURL　　
+
+## 他のリポジトリ　　
+
+## 機能一覧　　
+
+
+## 使用技術（実行環境）　　　
   
 dockerビルド　 
   
-1. https://github.com/yasuyo-okamoto/okamotoyasuyo_test.git  
+1.   
 2. docker-compose pu -d --build  
 *MySQLは、OSによって起動しない場合があるのでそれぞれのPCに合わせてdocker-compose.ymlファイルを編集してください  
 
@@ -30,8 +37,6 @@ Laravel環境構築
 * MySQL 8.0
 
 ## ER図  
-
-<img width="500" alt="スクリーンショット 2024-02-15 0 05 26" src="https://github.com/yasuyo-okamoto/okamotoyasuyo_test/assets/147665983/c332e0d6-0231-4e0d-b1fe-88e79bb7c1eb">
 
 
 ## URL  
