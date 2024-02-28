@@ -1,0 +1,35 @@
+body {
+    background-color: #d6d6d6;
+    height: 650px;
+}
+
+.header__inner {
+    height: 80px;
+    background-color: #ffffff;
+    position: relative;
+}
+
+.header__title {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 20px;
+    position: absolute;
+    top: 50%;
+    margin-top: -25px;
+}
+
+.footer__content {
+    margin-bottom: 0;
+    background-color: #ffffff;
+    height: 30px;
+    position: relative;
+}
+
+.credit__column {
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
